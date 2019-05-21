@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="title_activity">Units Converter</string>
+    <string name="Titulo1">Temperature units</string>
+    <string name="boton1">Celcius to Farenheit</string>
+    <string name="boton2">Celcius to Kelvin</string>
+    <string name="boton3">Farenheit to Celsius</string>
+    <string name="boton4">Kelvin to Celcius</string>
+    <string name="text1">Unit</string>
+    <string name="text2">Calculate</string>
+    <string name="text3">Result</string>
+</resources>
